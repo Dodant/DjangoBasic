@@ -7,7 +7,8 @@
 * C : Control, T : Template(Django)
 	* 사용자의 입력과 이벤트에 반응하여 Model과 View를 업데이트
 
-WSGI - Web Service Gateway Interface
+<img width="617" alt="Screen Shot 2019-05-18 at 3 13 33 PM" src="https://user-images.githubusercontent.com/20153952/58165174-31a66980-7cc2-11e9-8f84-24561c4f0cab.png">
+ref) WSGI - Web Service Gateway Interface
 
 ## Project와 App
 * 프로젝트 생성
