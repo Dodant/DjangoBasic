@@ -22,3 +22,6 @@ class Choice(models.Model):
     poll = models.ForeignKey(Poll, on_delete = models.CASCADE,)
     candidate = models.ForeignKey(Candidate, on_delete = models.CASCADE,)
     votes = models.IntegerField(default=0)
+
+class Image(models.Model):
+    image = models.ImageField()
